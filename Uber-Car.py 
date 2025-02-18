@@ -1,0 +1,3 @@
+# Este programa pide al usuario su nombre y lo saluda
+nombre = input("¿Cuál es tu nombre? ")  # Solicita el nombre al usuario
+print("¡Hola, " + nombre + "! Bienvenido al mundo de Python.")
